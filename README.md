@@ -45,4 +45,4 @@ response = requests.post(f"{API_URL}/generate", params=payload, timeout=120)
 }
 ```
 ## video demo
-[![Xem Video Demo](./images/thumb.png)](./video_demo/24120449.mp4)
+[![Xem Video Demo](./images/thumb.png)]([./video_demo/24120449.mp4](https://youtu.be/lmIHlk6UW7Q))
