@@ -1,0 +1,7 @@
+diffusers
+fastapi
+nest-asyncio
+uvicorn
+psutil
+torch
+request
